@@ -1,7 +1,8 @@
 # *De novo* prediction of drug targets and candidates by chemical similarity-guided network-based inference
-This repo contains the scripts for reproducing the results showcased in Vigil, Schuller (2022) "_De novo_ prediction of drug targets and candidates by chemical similarity-guided network-based inference".
+[![DOI:10.3390/ijms23179666](http://img.shields.io/badge/DOI-10.3390/ijms23179666-B31B1B.svg)](https://doi.org/10.3390/ijms23179666)
+![Graphical Abstract](./graphical_abstract.png)
 
-#### -- Project Status: Submitted
+This repo contains the scripts for reproducing the results showcased in Vigil, Schuller (2022) "_De novo_ prediction of drug targets and candidates by chemical similarity-guided network-based inference".
 
 ## Table of Contents
 - Requirements
